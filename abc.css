@@ -1,0 +1,190 @@
+
+ .qst{
+        color: orange;
+        font-size: 24px;
+        margin-left: 15px;
+      } 
+      .qst2{
+        color:orange;
+      }
+
+      .col{
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+
+.m{
+    float: right;
+   }
+   .mm{
+    width: 600px;
+    	
+
+   }
+
+   .pp{
+
+   
+   }
+
+
+		#ql
+		{
+			height: 75px;
+			padding-top: 10px;
+			
+			border: solid 1px #002b80;
+			background-color: #002b80;
+			color: white;
+			font-size: 25px;
+			margin-left: 10px;
+			margin-top:15px;
+
+			
+		}
+		#ql1
+		{
+			height: 80px;
+			padding-top: 10px;
+			
+			border: solid 1px #002b80;
+			background-color: #002b80;
+			color: white;
+			font-size: 18px;
+			margin-left: 10px;
+			margin-top: 15px;
+		}
+		#l-i
+		{
+			font-size: 20px;
+			margin-top: 20px;
+			color: #ff6600;
+			border: dashed 1px black;
+			border-top: none;
+			border-right: none;
+			border-left: none;
+		}
+		#l-i:hover
+		{
+			background-color: #ff6600;
+			color: white;
+		}
+		#up
+		{
+			height: 50px;
+			/*width: 230px;*/
+			border: solid 1px #cc0000;
+			background-color: #cc0000;
+			color: white;
+			font-size: 25px;
+			margin-top: 40px;
+			margin-left: 1px;
+			
+		}
+		#down
+		{
+			height: 300px;
+			
+			border: solid 1px black;
+			border-top-color: #cc0000;
+			margin-left: 1px;
+		}
+		.col-md-8
+		{
+			
+			background-color: white;
+		}
+		.coro{
+			height: 0px;
+			width: cover;
+			width: 940px;
+			margin-left: 300px;
+			float: left;
+			
+		}
+		#outside{
+			height: 350px;
+			width: cover;
+		}
+		.mid
+		{
+			margin-top: 20px;
+			margin-bottom: 20px; 
+		}
+		#img
+		{
+			height: 200px;
+			width: 280px;
+			float: left;
+			margin-right: 20px;
+		}
+		.just{
+			height: auto;
+			width: 40%;
+			border: solid 1px gray;
+			display: inline-block;
+			float: left;
+		}
+		#courses{
+			background-color: #004d99;
+			color: white;
+			font-size: 28px;
+		}
+		.now{
+			height: 250px;
+			width: 60%;
+			border: solid 1px gray;
+			display: inline-block;
+		}
+		#covid{
+			background-color: #cc0000;
+			color: white;
+			font-size: 28px;
+		}
+		#txt
+		{
+			border: dashed 1px black;
+			border-right: none;
+			border-top: none;
+			border-left: none;
+			font-size: 20px;
+			text-align: center;
+			margin-top: 10px;
+		}
+		#c-3
+		{
+			height: auto;
+			width: 100%;
+			margin-top: 10px;
+		}
+		#li-3
+		{
+			font-size: 20px;
+			margin-top: 20px;
+			color: #ff6600;
+			border: dashed 1px black;
+			border-right: none;
+			border-left: none;
+			border-top: none;
+
+		}
+		#li-3:hover
+		{
+			background-color: #ff6600;
+			color: white;
+		}
+		#just{
+			height: 40px;
+		}
+		
+.footer{
+			height: 40px;
+			width: cover;
+			
+			background-color: #ff6600;
+			color: white;
+			text-align: center;
+
+		}
+		
